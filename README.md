@@ -37,7 +37,7 @@ conda config --add channels conda-forge
 ```
 Run the following command to install the dependencies.
 ```text
-conda install requirements.txt
+pip install --r requirements.txt
 ```
 
 ###### Starting Server
